@@ -1,3 +1,6 @@
+Amélioration du projet :
+Pour améliorer le projet nous avons remplacé la Régression Linéaire simple implémentée par l'auteur par une régression régularisée de type Elastic Net dont le lambda était égal à 0.9 et le alpha était égal à 0.1 (ridge ).
+
 # brain_age
 
 Predict age from brain grey matter (regression).
